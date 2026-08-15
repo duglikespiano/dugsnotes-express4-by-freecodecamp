@@ -13,7 +13,8 @@
 ### 1. 개요
 
 - 프로젝트명 : dugsnotes_express4_by_freecodecamp
-- 관련URL : https://youtu.be/bYgphDEWwvs?si=BHnKFVcgMl7E7dy8
+- 관련URL1 : https://youtu.be/bYgphDEWwvs?si=BHnKFVcgMl7E7dy8
+- 관련URL2 : https://scrimba.com/learn-typescript-c03c?via=scrimbafcc
 - 기간 : 2026.08.14 - 진행중
 - 기술스택 : </br>
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">

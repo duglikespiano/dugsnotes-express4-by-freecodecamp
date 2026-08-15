@@ -13,7 +13,8 @@
 ### 1. Overview
 
 - Project title : dugsnotes_express4_by_freecodecamp
-- Related URL : https://youtu.be/bYgphDEWwvs?si=BHnKFVcgMl7E7dy8
+- Related URL1 : https://youtu.be/bYgphDEWwvs?si=BHnKFVcgMl7E7dy8
+- Related URL2 : https://scrimba.com/learn-typescript-c03c?via=scrimbafcc
 - Period : Aug 14 2026 - in progress
 - Tech stack : </br>
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
