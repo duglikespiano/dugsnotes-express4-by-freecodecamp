@@ -14,6 +14,10 @@ app.get('/', (req: Request, res: Response): void => {
 	res.json(pets);
 });
 
+app.use((req: Request, res: Response): void => {
+	res.json({ message: 'page not found' });
+});
+
 server.listen(PORT, (): void => {
 	console.log(`Server is running on port ${PORT}`);
 });
