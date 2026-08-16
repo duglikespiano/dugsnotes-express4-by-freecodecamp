@@ -1,6 +1,6 @@
 // https://scrimba.com/learn-typescript-c03c/~0yhy
 
-type Pet = {
+export type Pet = {
 	id: number;
 	name: string;
 	species: string;
